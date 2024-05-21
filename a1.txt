@@ -1,7 +1,8 @@
-<<<<<<< HEAD
+Otra linea escrita pero ahora es mas alrga
+aqui tmb hay cambios
+nose nose
+jaajjajaja
 Si
 No
-
-=======
 Linea escrita en git hub 
->>>>>>> 746113ac6d8ca899ea484d579d7429b0d29f8ded
+
